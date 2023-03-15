@@ -1,0 +1,6 @@
+**/node_modules/
+
+
+#IDE cashe directory 
+**/.vscode/
+**/.idea/
